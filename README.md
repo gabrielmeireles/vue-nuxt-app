@@ -1,1 +1,0 @@
-Vue-Nuxt-App
